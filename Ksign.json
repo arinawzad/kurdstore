@@ -1,12 +1,12 @@
 {
-  "name": "kurdstore IPA Repo (3839) ipa",
+  "name": "kurdstore IPA Repo (3848) ipa",
   "identifier": "kurdstore.info",
   "sourceURL": "https://repo.kurdstore.info",
   "iconURL": "https://repo.kurdstore.info/assest/icon.png",
   "website": "https://repo.kurdstore.info",
   "subtitle": "Biggest Updated Modified IPA Library for Sideloading - AppTesters.org",
   "META": {
-    "repoName": "kurdstore IPA Repo (3839) ipa",
+    "repoName": "kurdstore IPA Repo (3848) ipa",
     "repoIcon": "https://repo.kurdstore.info/assest/icon.png"
   },
   "apps": 
@@ -17,8 +17,8 @@
         "bundleID": "ksign.kurdstore.info",
         "bundleIdentifier": "kurdstore vip",
         "version": "1.4.0",
-        "versionDate": "2025-03-11",
-        "fullDate": "20250311170920",
+        "versionDate": "2025-03-14",
+        "fullDate": "20250314193926",
         "size": 1,
         "down": "https:\/\/archive.org\/download\/ksign-ipastorage-official\/Ksign--ipastorage_official.ipa",
         "downloadURL": "https:\/\/archive.org\/download\/ksign-ipastorage-official\/Ksign--ipastorage_official.ipa",
@@ -33,8 +33,8 @@
         "bundleID": "com.icstarfire.vsgold",
         "bundleIdentifier": "com.icstarfire.vsgold",
         "version": "13.2.3",
-        "versionDate": "2025-03-11",
-        "fullDate": "20250311170920",
+        "versionDate": "2025-03-14",
+        "fullDate": "20250314193926",
         "size": 1,
         "down": "https:\/\/github.com\/arinawzad\/kurdstore\/releases\/download\/v1.0.0\/0.videostar.ipa",
         "downloadURL": "https:\/\/github.com\/arinawzad\/kurdstore\/releases\/download\/v1.0.0\/0.videostar.ipa",
@@ -42,6 +42,52 @@
         "localizedDescription": "video star 13.2.3 unlock ",
         "icon": "https:\/\/app.kurdstore.info\/assets\/rasm\/videostarvip.jpg",
         "iconURL": "https:\/\/app.kurdstore.info\/assets\/rasm\/videostarvip.jpg"
+    },
+    {
+        "name": "video star pro",
+        "type": 1,
+        "bundleID": "com.kurdstore.videostarpro",
+        "bundleIdentifier": "com.kurdstore.videostarpro",
+        "version": "9.2.2",
+        "versionDate": "2025-03-14",
+        "fullDate": "20250314193926",
+        "size": 152,
+        "down": "https:\/\/github.com\/arinawzad\/kurdstore\/releases\/download\/v1.0.0\/1.Vdpro.ipa",
+        "downloadURL": "https:\/\/github.com\/arinawzad\/kurdstore\/releases\/download\/v1.0.0\/1.Vdpro.ipa",
+        "developerName": "",
+        "localizedDescription": "video star 9.2.2 unlock ",
+        "icon": "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostarpro\/videostarpro.png",
+        "iconURL": "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostarpro\/videostarpro.png",
+        "screenshots": [
+            "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostarpro\/1.jpg",
+            "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostarpro\/2.jpg",
+            "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostarpro\/3.jpg",
+            "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostarpro\/4.jpg"
+        ],
+        "color": "linear-gradient(180deg, #23c1ff, #810959)"
+    },
+    {
+        "name": "video star hack",
+        "type": 1,
+        "bundleID": "com.kurdstore.videostar",
+        "bundleIdentifier": "com.kurdstore.videostar",
+        "version": "8.3.2",
+        "versionDate": "2025-03-14",
+        "fullDate": "20250314193926",
+        "size": 99,
+        "down": "https:\/\/github.com\/arinawzad\/kurdstore\/releases\/download\/v1.0.0\/2.Vdhack.ipa",
+        "downloadURL": "https:\/\/github.com\/arinawzad\/kurdstore\/releases\/download\/v1.0.0\/2.Vdhack.ipa",
+        "developerName": "",
+        "localizedDescription": "video star 8.3.2 unlock ",
+        "icon": "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostar\/videostar.png",
+        "iconURL": "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostar\/videostar.png",
+        "screenshots": [
+            "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostar\/1.jpg",
+            "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostar\/2.jpg",
+            "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostar\/3.jpg",
+            "https:\/\/kurdstore.info\/api\/allkurdstore\/screens\/videostar\/4.jpg"
+        ],
+        "color": "linear-gradient(180deg, #23c1ff, #810959)"
     },
     {
         "name": "Paired",
@@ -18108,16 +18154,136 @@
         "iconURL": "https:\/\/raw.githubusercontent.com\/apptesters-org\/AppTesters_Repo\/main\/icons\/com.risesci.nyx.png"
     },
     {
+        "name": "EeveeSpotify-5.8.8-9.0.26",
+        "bundleIdentifier": "com.spotify.client",
+        "developerName": "EeveeSpotify-5.8.8-9.0.26 x CyPwn",
+        "version": "9.0.26",
+        "versionDate": "2025-03-13",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/EeveeSpotify-5.8.8-9.0.26.ipa",
+        "localizedDescription": "EeveeSpotify-5.8.8-9.0.26",
+        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/EeveeSpotify-5.8.8-9.0.26.png",
+        "tintColor": "FFC300",
+        "size": 83886080,
+        "screenshotURLs": [
+            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/EeveeSpotify-5.8.8-9.0.26\/EeveeSpotify-5.8.8-9.0.26-0.png"
+        ]
+    },
+    {
+        "name": "Remoter_Pro_6.2.1",
+        "bundleIdentifier": "com.remoterlabs.remotercomplete",
+        "developerName": "Remoter_Pro_6.2.1 x CyPwn",
+        "version": "6.2.1",
+        "versionDate": "2025-03-13",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Remoter_Pro_6.2.1.ipa",
+        "localizedDescription": "A powerful remote desktop client.",
+        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Remoter_Pro_6.2.1.png",
+        "tintColor": "FFC300",
+        "size": 24117248,
+        "screenshotURLs": [
+            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Remoter_Pro_6.2.1\/Remoter_Pro_6.2.1-0.png"
+        ]
+    },
+    {
+        "name": "Screens_4.12.11",
+        "bundleIdentifier": "com.edovia.screens.3.ios",
+        "developerName": "Screens_4.12.11 x CyPwn",
+        "version": "4.12.11",
+        "versionDate": "2025-03-13",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Screens_4.12.11.ipa",
+        "localizedDescription": "Take control of your computers.",
+        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Screens_4.12.11.png",
+        "tintColor": "FFC300",
+        "size": 10485760,
+        "screenshotURLs": [
+            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Screens_4.12.11\/Screens_4.12.11-0.png"
+        ]
+    },
+    {
+        "name": "YouTube_20.10.4_YTPlus_5.1",
+        "bundleIdentifier": "com.google.ios.youtube",
+        "developerName": "YouTube_20.10.4_YTPlus_5.1 x CyPwn",
+        "version": "20.10.4",
+        "versionDate": "2025-03-13",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/YouTube_20.10.4_YTPlus_5.1.ipa",
+        "localizedDescription": "YouTube 20.10.4 + YTPlus 5.1 + more",
+        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/YouTube_20.10.4_YTPlus_5.1.png",
+        "tintColor": "FFC300",
+        "size": 119537664,
+        "screenshotURLs": [
+            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/YouTube_20.10.4_YTPlus_5.1\/YouTube_20.10.4_YTPlus_5.1-0.png"
+        ]
+    },
+    {
+        "name": "Jump_9.8.0",
+        "bundleIdentifier": "4GU63N96WE.com.p5sys.jumpdesktop",
+        "developerName": "Jump_9.8.0 x CyPwn",
+        "version": "9.8.0",
+        "versionDate": "2025-03-12",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Jump_9.8.0.ipa",
+        "localizedDescription": "RDP and VNC application",
+        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Jump_9.8.0.png",
+        "tintColor": "FFC300",
+        "size": 28311552,
+        "screenshotURLs": [
+            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Jump_9.8.0\/Jump_9.8.0-0.png"
+        ]
+    },
+    {
+        "name": "Age_of_History_II_Europe_1.0713",
+        "bundleIdentifier": "age.of.civilizations2.jakowski.lukasz.ios.europe",
+        "developerName": "Age_of_History_II_Europe_1.0713 x CyPwn",
+        "version": "1.0713",
+        "versionDate": "2025-03-12",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Age_of_History_II_Europe_1.0713.ipa",
+        "localizedDescription": "Age of History II Europe",
+        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Age_of_History_II_Europe_1.0713.png",
+        "tintColor": "FFC300",
+        "size": 157286400,
+        "screenshotURLs": [
+            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Age_of_History_II_Europe_1.0713\/Age_of_History_II_Europe_1.0713-0.png"
+        ]
+    },
+    {
+        "name": "Gopeed_1.6.10",
+        "bundleIdentifier": "com.gopeed.gopeed",
+        "developerName": "Gopeed_1.6.10 x CyPwn",
+        "version": "1.6.10",
+        "versionDate": "2025-03-11",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Gopeed_1.6.10.ipa",
+        "localizedDescription": "A modern download manager.",
+        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Gopeed_1.6.10.png",
+        "tintColor": "FFC300",
+        "size": 37748736,
+        "screenshotURLs": [
+            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Gopeed_1.6.10\/Gopeed_1.6.10-0.png"
+        ]
+    },
+    {
+        "name": "Theta_1_4",
+        "bundleIdentifier": "com.burbn.instagram",
+        "developerName": "Theta_1_4 x CyPwn",
+        "version": "370.0.0",
+        "versionDate": "2025-03-11",
+        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Theta_1_4.ipa",
+        "localizedDescription": "Instagram tweak by objc_msgSend",
+        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Theta_1_4.png",
+        "tintColor": "FFC300",
+        "size": 205520896,
+        "screenshotURLs": [
+            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Theta_1_4\/Theta_1_4-0.png"
+        ]
+    },
+    {
         "name": "YouTube_20.10.3_YTPlus_5.1",
         "bundleIdentifier": "com.google.ios.youtube",
         "developerName": "YouTube_20.10.3_YTPlus_5.1 x CyPwn",
         "version": "20.10.3",
-        "versionDate": "2025-03-10",
+        "versionDate": "2025-03-11",
         "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/YouTube_20.10.3_YTPlus_5.1.ipa",
         "localizedDescription": "YouTube 20.10.3 + YTPlus 5.1 + more",
         "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/YouTube_20.10.3_YTPlus_5.1.png",
         "tintColor": "FFC300",
-        "size": 119537664,
+        "size": 120586240,
         "screenshotURLs": [
             "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/YouTube_20.10.3_YTPlus_5.1\/YouTube_20.10.3_YTPlus_5.1-0.png"
         ]
@@ -18225,21 +18391,6 @@
         "size": 233832448,
         "screenshotURLs": [
             "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/FL_Studio_Mobile_4.7.2_Patched\/FL_Studio_Mobile_4.7.2_Patched-0.png"
-        ]
-    },
-    {
-        "name": "Theta",
-        "bundleIdentifier": "com.burbn.instagram",
-        "developerName": "Theta x CyPwn",
-        "version": "367.0.0",
-        "versionDate": "2025-02-13",
-        "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Theta.ipa",
-        "localizedDescription": "Instagram tweak by objc_msgSend",
-        "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Theta.png",
-        "tintColor": "FFC300",
-        "size": 201326592,
-        "screenshotURLs": [
-            "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Theta\/Theta-0.png"
         ]
     },
     {
